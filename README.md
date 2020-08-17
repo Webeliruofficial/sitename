@@ -1,2 +1,2 @@
-# sitename
-sitename
+# sitename/index.html
+sitename/index.html
