@@ -1,2 +1,2 @@
-# sitename.github.io
-sitename.github.io
+# sitename
+sitename
